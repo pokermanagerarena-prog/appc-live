@@ -1,0 +1,8 @@
+{
+  "name": "appc-live",
+  "version": "1.0.0",
+  "main": "api/update.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
